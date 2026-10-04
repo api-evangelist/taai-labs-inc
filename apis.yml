@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/taai-labs-inc.png
-name: TAAI Labs, Inc
+name: Sparkle
 description: >-
   TAAI Labs, Inc operates Sparkle (sparkle.security), an AI-first secure software
   development lifecycle (SDLC) platform, currently in beta, that aims to prevent
@@ -88,3 +88,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: TAAI Labs, Inc
